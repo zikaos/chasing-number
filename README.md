@@ -1,3 +1,2 @@
 # chasing-number
-do2 w grb
-
+amot fe al bezaz

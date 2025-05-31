@@ -1,2 +1,2 @@
 # chasing-number
-amot fe al bezaz
+a7m

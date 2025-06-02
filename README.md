@@ -1,2 +1,7 @@
 # chasing-number
-a7m
+NEW SHIT  
+SPRINTING SYSTEM  
+GRAVITY SYSTEM  
+NEW MAP  
+NEW PHYSICS
+  
